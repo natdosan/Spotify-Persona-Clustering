@@ -7,7 +7,7 @@ dependencies:
   - numpy=1.22.3
   - numpy-base=1.22.3
   - packaging=21.3
-  - pandas=1.4.2
+  - pandas=1.5.2
   - pandas-stubs=1.2.0.58
   - pip=21.2.4
   - plotly=5.9.0
