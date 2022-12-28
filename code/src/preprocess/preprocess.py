@@ -42,7 +42,7 @@ def feature_scale(charts):
 def main():
     charts = load_dataset()
     charts = clean_data(charts)
-    print(get_features(charts))
+    print("\nFeatures: ", get_features(charts))
     charts = feature_scale(charts)
     return print(charts.head())
 
