@@ -1,0 +1,10 @@
+python3
+pandas
+scikit-learn
+numpy
+plotly
+dash
+datetime
+spotipy
+conda
+scipy
