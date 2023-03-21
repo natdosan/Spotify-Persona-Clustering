@@ -51,6 +51,8 @@ Spotify Persona Clustering
 
 # Usage
 
+Please make sure all requirements and dependencies are installed in order for proper usage.
+
 ## Install
 clone the repository
 ```
