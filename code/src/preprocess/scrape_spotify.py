@@ -55,7 +55,7 @@ for url in track_urls:
     audio_features.append(features)
 
 # Write the features to a CSV file
-filename = os.path.join('..', '..', 'data', 'spotify_features.csv')
+filename = os.path.join('..', '..', 'data', f'{last_week_str}spotify_features.csv')
 with open(filename, 'w', newline='') as csvfile:
     writer = csv.writer(csvfile)
     # Write the header row
