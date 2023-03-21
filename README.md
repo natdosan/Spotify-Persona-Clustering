@@ -65,5 +65,5 @@ Create conda environment and activate it
 ```
 cd front-end-vis
 conda env create -f environment.MacOS.Linux.yml
-conda activate vhfd
+conda activate Spotify
 ```
