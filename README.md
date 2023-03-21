@@ -27,3 +27,22 @@ Spotify Persona Clustering
 ├── requirements.txt
 └── README.md
 ```
+
+# Usage
+
+## Install
+clone the repository
+```
+git clone https://github.com/natdosan/Spotify-Persona-Clustering
+```
+Go the repository directory, switch the branch if running branch other than master
+```
+cd Spotify-Persona-Clustering
+git checkout <branch you'd like to run>
+```
+Create conda environment and activate it
+```
+cd front-end-vis
+conda env create -f environment.MacOS.Linux.yml
+conda activate vhfd
+```
