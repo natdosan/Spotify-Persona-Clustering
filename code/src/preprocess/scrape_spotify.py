@@ -78,7 +78,7 @@ def main():
     spotify_client = get_spotify_client()
     date_string = get_date()
     track_names, audio_features = get_playlist(spotify_client, date_string)
-    write_to_csv(spotify_client=spotify_client, last_week_str=date_string, track_names=track_names, audio_features=audio_features)
+    write_to_csv(spotify_client, last_week_str=date_string, track_names=track_names, audio_features=audio_features)
 
 if __name__ == '__main__':
     main()
