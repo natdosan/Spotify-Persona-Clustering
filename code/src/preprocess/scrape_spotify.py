@@ -89,14 +89,17 @@ def get_playlist(spotify_client, last_week_str):
     track_urls = []
     track_names = []
     artist_names = []
-    for item in tracks:
+    song_ranks = []
+    for i, item in enumerate(tracks):
         track = item['track']
         track_url = track['external_urls']['spotify']
         track_name = track['name']
         artist_name = track['artists'][0]['name']
+        song_rank = i + 1
         track_urls.append(track_url)
         track_names.append(track_name)
         artist_names.append(artist_name)
+        song_ranks.append(song_rank)
 
     # Scrape the audio features for each track
     audio_features = []
@@ -107,9 +110,9 @@ def get_playlist(spotify_client, last_week_str):
         features = spotify_client.audio_features(track_id)[0]
         # Add the features to the list
         audio_features.append(features)
-    return track_names, artist_names, audio_features
+    return track_names, artist_names, audio_features, song_ranks
 
-def write_to_csv(sp, last_week_str, track_names, artist_names, audio_features):
+def write_to_csv(sp, last_week_str, track_names, artist_names, audio_features, song_ranks):
     """
     Given the scraped audio features, write them to a new csv file in a clean
     formatting
@@ -122,8 +125,12 @@ def write_to_csv(sp, last_week_str, track_names, artist_names, audio_features):
         datetime string for the file name
     track_names: list
         list of track names to iterate through so we can write the names from
+    artist_names: list
+        list of artist names for each track
     audio_features: list
         list of audio_features to iterate through so we can write to our outfile
+    song_ranks: list
+        list of song ranks in order
 
     Returns
     -------
@@ -140,6 +147,7 @@ def write_to_csv(sp, last_week_str, track_names, artist_names, audio_features):
         # Write the header row
         writer.writerow(['Track Name', 
                          'Artist Name',
+                         'Rank',
                          'Acousticness', 
                          'Danceability', 
                          'Energy', 
@@ -153,6 +161,7 @@ def write_to_csv(sp, last_week_str, track_names, artist_names, audio_features):
         for i, features in enumerate(audio_features):
             writer.writerow([track_names[i], 
                              artist_names[i],
+                             song_ranks[i],
                              features['acousticness'], 
                              features['danceability'],
                              features['energy'], 
@@ -169,12 +178,13 @@ def main():
 
     spotify_client = get_spotify_client()
     date_string = get_date()
-    track_names, artist_names, audio_features = get_playlist(spotify_client, date_string)
+    track_names, artist_names, audio_features, song_ranks = get_playlist(spotify_client, date_string)
     write_to_csv(spotify_client, 
                  last_week_str=date_string, 
                  artist_names=artist_names,
                  track_names=track_names, 
-                 audio_features=audio_features)
+                 audio_features=audio_features,
+                 song_ranks=song_ranks)
 
 if __name__ == '__main__':
     main()
