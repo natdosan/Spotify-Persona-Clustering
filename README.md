@@ -3,6 +3,8 @@
 
 This project uses the Spotify API to retrieve audio features for a given list of tracks. The most relevant section for the Supervised/Unsupervised Learning performed can be found [here](https://developer.spotify.com/documentation/web-api/reference/#/operations/get-several-audio-features)
 
+![](radar_vis.png)
+
 ## Spotify API
 
 The Spotify API is a powerful tool that allows developers to access a vast collection of music data, including audio features, artist information, and track metadata. To use the Spotify API in your project, you will need to register your application with Spotify and obtain an access token. You can find detailed documentation and examples on the [Spotify Developer Website](https://developer.spotify.com/documentation/web-api/).
