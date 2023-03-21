@@ -1,4 +1,4 @@
-# Spotify-Top-200
+# Spotify-Persona-Clustering
 
 
 This project uses the Spotify API to retrieve audio features for a given list of tracks. The most relevant section for the Supervised/Unsupervised Learning performed can be found [here](https://developer.spotify.com/documentation/web-api/reference/#/operations/get-several-audio-features)
