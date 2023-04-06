@@ -1,5 +1,6 @@
 # ONGOING - Spotify-Persona-Clustering
 
+This project is in its beginning stages. For an overview, click [here](https://purrfect-zinc-f80.notion.site/Spotify-57e38776f1fc4f30a1381f45c42b1d36)
 
 This project uses the Spotify API to retrieve audio features for a given list of tracks. The most relevant section for the Supervised/Unsupervised Learning performed can be found [here](https://developer.spotify.com/documentation/web-api/reference/#/operations/get-several-audio-features)
 
@@ -23,7 +24,6 @@ The Spotify API provides a wide range of endpoints that allow you to retrieve an
 
 You can find the full list of endpoints and their documentation on the [Spotify Developer Website](https://developer.spotify.com/documentation/web-api/reference/).
 
-This project is in its beginning stages. For an overview, click [here](https://purrfect-zinc-f80.notion.site/Spotify-57e38776f1fc4f30a1381f45c42b1d36)
 
 Structure
 ```
