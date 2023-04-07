@@ -40,7 +40,9 @@ Spotify Persona Clustering
 │        ├── environment.yml
 │        ├── preprocess
 │        │        ├── scrape_spotify.py
-│        │        └── preprocess.ipynb
+│        │        ├── preprocess.py
+│        │        ├── preprocess.ipynb
+│        │        └── pca.py
 │        │     
 │        ├── supervised
 │        │        └── knn.ipynb
