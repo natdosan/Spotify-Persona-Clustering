@@ -1,0 +1,101 @@
+Track Name,Artist Name,Rank,Acousticness,Danceability,Energy,Instrumentalness,Liveness,Speechiness,Tempo,Valence
+Bohemian Rhapsody - Remastered 2011,Queen,1,0.288,0.392,0.402,0,0.243,0.0536,143.883,0.228
+Roller Coaster,Danny Vera,2,0.51,0.401,0.383,0.0078,0.121,0.0279,96.957,0.285
+Hotel California - 2013 Remaster,Eagles,3,0.00574,0.579,0.508,0.000494,0.0575,0.027,147.125,0.609
+Piano Man,Billy Joel,4,0.6,0.334,0.472,3.62e-06,0.317,0.0277,179.173,0.431
+Fix You,Coldplay,5,0.164,0.209,0.417,0.00196,0.113,0.0338,138.178,0.124
+Stairway to Heaven - Remaster,Led Zeppelin,6,0.58,0.338,0.34,0.0032,0.116,0.0339,82.433,0.197
+Black,Pearl Jam,7,0.323,0.36,0.684,0,0.34,0.0308,77.15,0.2
+Avond,Boudewijn de Groot,8,0.657,0.479,0.365,0.000544,0.12,0.041,98.183,0.166
+Nothing Else Matters (Remastered),Metallica,9,0.0522,0.547,0.394,6.4e-06,0.0795,0.0262,142.37,0.17
+Love Of My Life - Remastered 2011,Queen,10,0.936,0.331,0.183,9.07e-06,0.115,0.0287,79.195,0.26
+Wish You Were Here,Pink Floyd,11,0.735,0.481,0.262,0.0114,0.832,0.0414,122.861,0.375
+November Rain,Guns N' Roses,12,0.0163,0.294,0.641,0.22,0.112,0.0291,79.759,0.226
+Comfortably Numb,Pink Floyd,13,0.15,0.472,0.366,0.312,0.0837,0.0286,127.163,0.171
+Brothers in Arms,Dire Straits,14,0.503,0.22,0.44,0.862,0.12,0.0352,79.095,0.13
+Radar Love,Golden Earring,15,0.00878,0.504,0.719,0.00149,0.075,0.0431,102.144,0.177
+Child in Time,Deep Purple,16,0.17,0.338,0.461,0.564,0.0927,0.0396,126.698,0.351
+Africa,TOTO,17,0.257,0.671,0.373,8.01e-05,0.0481,0.0323,92.718,0.732
+The Sound of Silence,Disturbed,18,0.468,0.322,0.28,1.1e-06,0.102,0.0281,85.794,0.175
+Soldier On,DI-RECT,19,0.843,0.358,0.44,0,0.105,0.0284,180.044,0.195
+Sultans of Swing,Dire Straits,20,0.0632,0.73,0.868,0.0661,0.318,0.0288,148.217,0.923
+Purple Rain,Prince,21,0.0353,0.367,0.452,0.00228,0.689,0.0307,113.066,0.189
+One (Remastered),Metallica,22,0.000668,0.438,0.687,0.0801,0.42,0.0619,103.01,0.426
+The River,Bruce Springsteen,23,0.179,0.587,0.536,2.75e-05,0.305,0.0304,117.498,0.59
+Paradise By the Dashboard Light,Meat Loaf,24,0.214,0.326,0.872,0,0.461,0.122,173.381,0.492
+Go Your Own Way - 2004 Remaster,Fleetwood Mac,25,0.0185,0.583,0.947,0.00109,0.0679,0.0378,135.448,0.803
+Heroes - 2017 Remaster,David Bowie,26,0.000678,0.489,0.758,0.49,0.092,0.0297,112.113,0.435
+Shine On You Crazy Diamond (Pts. 1-5),Pink Floyd,27,0.772,0.264,0.294,0.686,0.107,0.028,137.937,0.0402
+Thunderstruck,AC/DC,28,0.000147,0.502,0.89,0.0117,0.217,0.0364,133.52,0.259
+Master of Puppets (Remastered),Metallica,29,0.00067,0.539,0.828,0.421,0.154,0.035,105.25,0.562
+Telegraph Road,Dire Straits,30,0.016,0.381,0.592,0.363,0.273,0.0322,124.984,0.285
+Viva La Vida,Coldplay,31,0.0954,0.486,0.617,3.23e-06,0.109,0.0287,138.015,0.417
+Smells Like Teen Spirit,Nirvana,32,2.55e-05,0.502,0.912,0.000173,0.106,0.0564,116.761,0.72
+Oceaan,Racoon,33,0.866,0.593,0.313,0,0.108,0.0383,95.904,0.219
+Just Breathe,Pearl Jam,34,0.721,0.473,0.348,7.42e-05,0.0823,0.0288,107.819,0.283
+Sweet Child O' Mine,Guns N' Roses,35,0.0901,0.446,0.952,0.0857,0.112,0.0523,125.303,0.624
+A Forest - 2006 Remaster,The Cure,36,0.34,0.633,0.62,0.605,0.0977,0.0648,81.117,0.421
+The Sound of Silence,Simon & Garfunkel,37,0.869,0.535,0.225,1.57e-06,0.0988,0.0301,107.384,0.338
+Door De Wind,Miss Montreal,38,0.705,0.579,0.0945,4.27e-06,0.0817,0.0396,123.994,0.353
+Innuendo,Queen,39,0.0976,0.339,0.449,0.000219,0.114,0.0393,72.302,0.254
+The Chain - 2004 Remaster,Fleetwood Mac,40,0.009,0.545,0.67,0.000822,0.0451,0.0496,151.553,0.481
+Cold Little Heart,Michael Kiwanuka,41,0.487,0.489,0.404,0.0485,0.14,0.0261,108.01,0.153
+Enter Sandman (Remastered),Metallica,42,0.00277,0.566,0.834,0.008,0.0625,0.0298,123.296,0.621
+In the End,Linkin Park,43,0.00958,0.556,0.864,0,0.209,0.0584,105.143,0.4
+Dancing Queen,ABBA,44,0.358,0.543,0.87,0.000939,0.792,0.0428,100.804,0.754
+Over De Muur,Klein Orkest,45,0.629,0.612,0.321,1.05e-05,0.144,0.0506,95.977,0.287
+In The Air Tonight - 2015 Remastered,Phil Collins,46,0.551,0.446,0.239,4.1e-06,0.0697,0.0316,189.507,0.298
+Hurt,Johnny Cash,47,0.649,0.534,0.392,0.000227,0.0948,0.0267,90.379,0.163
+Killing In The Name,Rage Against The Machine,48,0.0266,0.466,0.833,0,0.0327,0.304,88.785,0.661
+Shallow,Lady Gaga,49,0.371,0.572,0.385,0,0.231,0.0308,95.799,0.323
+School,Supertramp,50,0.537,0.366,0.468,0.0283,0.0664,0.0826,90.281,0.0506
+Yellow,Coldplay,51,0.00239,0.429,0.661,0.000121,0.234,0.0281,173.372,0.285
+Imagine - Remastered 2010,John Lennon,52,0.907,0.547,0.257,0.183,0.0935,0.0252,75.752,0.169
+Running Up That Hill (A Deal With God),Kate Bush,53,0.719,0.629,0.545,0.00308,0.0604,0.0546,108.376,0.194
+"Somebody To Love - Live At The Freddie Mercury Tribute Concert For AIDS Awareness, Wembley / 1992",Queen,54,0.117,0.438,0.893,3.15e-06,0.987,0.0473,110.234,0.416
+Noodgeval,Goldband,55,0.131,0.856,0.89,0.0143,0.0614,0.0627,139.003,0.77
+Het Dorp - Live,Wim Sonneveld,56,0.828,0.356,0.432,0.0098,0.671,0.0804,112.533,0.468
+Creep,Radiohead,57,0.0097,0.515,0.43,0.000133,0.129,0.0372,91.844,0.104
+The Scientist,Coldplay,58,0.731,0.557,0.442,1.46e-05,0.11,0.0243,146.277,0.213
+Iron Sky,Paolo Nutini,59,0.242,0.387,0.626,0.0012,0.11,0.0344,139.724,0.316
+Lola Montez,Volbeat,60,0.000139,0.513,0.875,3.28e-05,0.0715,0.0336,151.986,0.677
+"Lose Yourself - From ""8 Mile"" Soundtrack",Eminem,61,0.00868,0.692,0.744,0.000423,0.359,0.257,171.374,0.0612
+"Paint It, Black",The Rolling Stones,62,0.0493,0.464,0.795,0.00244,0.399,0.0926,158.691,0.612
+Papa,Stef Bos,63,0.718,0.744,0.322,1.62e-06,0.0841,0.0337,119.941,0.294
+A Whiter Shade of Pale - Original Single Version,Procol Harum,64,0.504,0.249,0.66,0.0026,0.0891,0.0342,149.813,0.435
+Fool's Overture,Supertramp,65,0.313,0.406,0.306,0.0079,0.0727,0.0372,135.272,0.073
+Alive,Pearl Jam,66,0.00752,0.284,0.875,0.000461,0.402,0.0422,75.009,0.595
+Under Pressure - Remastered 2011,Queen,67,0.422,0.671,0.711,0,0.104,0.0478,113.809,0.466
+Phantom Of The Opera,Floor Jansen,68,0.00251,0.471,0.869,2.41e-05,0.246,0.0473,131.956,0.271
+Don't Stop Me Now - Remastered 2011,Queen,69,0.0472,0.563,0.865,0.000191,0.77,0.16,156.271,0.601
+God Only Knows - Remastered 1999,The Beach Boys,70,0.252,0.517,0.421,0,0.0933,0.0321,117.198,0.447
+Mr. Blue Sky,Electric Light Orchestra,71,0.652,0.388,0.338,3.73e-06,0.248,0.0329,177.765,0.478
+Bridge Over Troubled Water,Simon & Garfunkel,72,0.822,0.149,0.206,0.000649,0.115,0.0323,79.764,0.264
+Uprising,Muse,73,0.000202,0.602,0.905,0.064,0.117,0.0775,128.019,0.411
+Highway to Hell,AC/DC,74,0.061,0.574,0.913,0.00158,0.156,0.133,115.728,0.423
+Sunday Bloody Sunday - Remastered 2008,U2,75,0.402,0.543,0.944,0.000564,0.0373,0.0543,101.174,0.735
+Back To Black,Amy Winehouse,76,0.134,0.403,0.422,2.05e-05,0.0861,0.0373,122.728,0.378
+Impossible (Orchestral Version) [Live at Abbey Road],Nothing But Thieves,77,0.0593,0.383,0.647,5.31e-06,0.0987,0.0365,82.963,0.112
+Sympathy For The Devil,The Rolling Stones,78,0.61,0.728,0.681,0,0.0559,0.221,115.944,0.578
+With Or Without You - Remastered,U2,79,0.000202,0.54,0.429,0.355,0.141,0.0285,110.171,0.113
+"Another Brick in the Wall, Pt. 2",Pink Floyd,80,0.0782,0.693,0.394,0.000694,0.247,0.0428,104.114,0.721
+Somebody To Love - Remastered 2011,Queen,81,0.19,0.497,0.693,0,0.215,0.0565,111.539,0.358
+Sorry,Kensington,82,0.502,0.461,0.409,0,0.0979,0.0315,133.956,0.0895
+Brabant,Guus Meeuwis,83,0.561,0.407,0.466,0.00894,0.103,0.0311,81.568,0.387
+Another Love,Tom Odell,84,0.695,0.445,0.537,1.65e-05,0.0944,0.04,122.769,0.131
+Let It Be - Remastered 2009,The Beatles,85,0.631,0.443,0.403,0,0.111,0.0322,143.462,0.41
+Under the Bridge,Red Hot Chili Peppers,86,0.0576,0.559,0.345,0.000105,0.141,0.0459,84.581,0.458
+Old and Wise,The Alan Parsons Project,87,0.727,0.375,0.317,2.92e-05,0.123,0.0315,112.003,0.12
+Dreams - 2004 Remaster,Fleetwood Mac,88,0.0644,0.828,0.492,0.00428,0.128,0.0276,120.151,0.789
+Clocks,Coldplay,89,0.599,0.577,0.749,0.0115,0.183,0.0279,130.97,0.255
+Angels,Robbie Williams,90,0.156,0.429,0.594,4.95e-06,0.1,0.0277,150.22,0.236
+Pastorale - Remastered,Liesbeth List,91,0.646,0.463,0.523,0,0.283,0.0272,111.838,0.346
+Songbird - 2004 Remaster,Fleetwood Mac,92,0.982,0.58,0.0842,0.00126,0.11,0.0302,92.123,0.388
+Here Comes The Sun - Remastered 2009,The Beatles,93,0.0339,0.557,0.54,0.00248,0.179,0.0347,129.171,0.394
+One,U2,94,0.245,0.392,0.534,0.00104,0.155,0.0369,181.305,0.325
+Deutschland,Rammstein,95,5.54e-05,0.521,0.895,0.349,0.0985,0.0442,120.117,0.237
+Gimme Shelter,The Rolling Stones,96,0.447,0.634,0.63,0.039,0.17,0.031,118.628,0.489
+Suspicious Minds,Elvis Presley,97,0.0422,0.487,0.382,4.74e-06,0.411,0.0309,116.557,0.714
+Du hast,Rammstein,98,0.00369,0.64,0.922,0.055,0.332,0.0385,125.105,0.716
+Private Investigations,Dire Straits,99,0.699,0.551,0.101,0.542,0.0811,0.0309,84.407,0.0691
+Whole Lotta Rosie,AC/DC,100,0.0014,0.292,0.838,0.479,0.0953,0.078,159.176,0.423
