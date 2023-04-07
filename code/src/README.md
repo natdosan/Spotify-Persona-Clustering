@@ -5,6 +5,7 @@ This repo contains code contributions from Nathaniel del Rosario during the wint
 * Perform feature extraction, engineering, and selection on the data
 * Run multiple supervised/unsupervised methods to create models 
 * Optimize models to generate valuable insights on Spotify songs by clustering different consumer listening personas
+* Revisit this project every quarter to improve its design 
 
 ## Dependencies:
 * Make sure to install conda
